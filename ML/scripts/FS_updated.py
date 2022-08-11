@@ -1,6 +1,3 @@
-"""
-@author: Takashi Ikeda
-"""
 
 # Feature Selection
 def feature_selection(DF,i,target_var):
