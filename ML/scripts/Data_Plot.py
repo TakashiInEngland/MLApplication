@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 23 11:14:52 2019
 
-@author: 1523724
-"""
 def data_plot(DF,target_var,set_input_var,algorithm,screen):
 
     import matplotlib.pyplot as plt
