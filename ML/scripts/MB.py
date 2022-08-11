@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 16 10:34:41 2019
-
-@author: 1523724
-"""
 
 def SP_model_building(DF,target_var,set_input_var,i):
 
