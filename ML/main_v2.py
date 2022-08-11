@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Takashi Ikeda
-"""
+
 # GUI Development
 import os
 import tkinter as tk
